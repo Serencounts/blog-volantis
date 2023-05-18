@@ -3,12 +3,14 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: 'test description'
+title: Volantis-theme-blog 
+subtitle: '函数连续是逐点定义的'
+description: 'My blog'
 keywords:
-author: John Doe
-language: en
+author: 木分絮语
+language: 
+  - zh-CN
+  - en
 timezone: ''
 
 # URL
@@ -104,3 +106,4 @@ theme: volantis
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: ''
+
